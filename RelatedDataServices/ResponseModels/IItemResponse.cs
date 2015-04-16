@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace SitefinityWebApp.ServiceStackCustom
+namespace SitefinityWebApp.RelatedDataServices.ResponseModels
 {
     public interface IItemResponse
     {

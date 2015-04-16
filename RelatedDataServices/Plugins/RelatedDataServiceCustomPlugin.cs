@@ -1,8 +1,9 @@
 ﻿using ServiceStack;
+using SitefinityWebApp.RelatedDataServices.Services;
 using System;
 using Telerik.Sitefinity.Services.RelatedData.Messages;
 
-namespace SitefinityWebApp.ServiceStackCustom
+namespace SitefinityWebApp.RelatedDataServices.Plugins
 {
     public class RelatedDataServiceCustomPlugin : IPlugin
     {

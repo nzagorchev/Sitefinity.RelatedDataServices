@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SitefinityWebApp.RelatedDataServices.ResponseModels;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -16,7 +17,7 @@ using Telerik.Sitefinity.Taxonomies;
 using Telerik.Sitefinity.Taxonomies.Model;
 using Telerik.Sitefinity.Utilities.TypeConverters;
 
-namespace SitefinityWebApp.ServiceStackCustom
+namespace SitefinityWebApp.RelatedDataServices.Helpers
 {
     public class ItemResponseExtendedHelper
     {

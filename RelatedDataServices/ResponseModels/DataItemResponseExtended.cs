@@ -1,8 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using SitefinityWebApp.RelatedDataServices.Helpers;
+using System.Collections.Generic;
 using Telerik.Sitefinity.Model;
 using Telerik.Sitefinity.Services.GenericData.Responses;
 
-namespace SitefinityWebApp.ServiceStackCustom
+namespace SitefinityWebApp.RelatedDataServices.ResponseModels
 {
     public class DataItemResponseExtended : DataItemResponse, IItemResponse
     {

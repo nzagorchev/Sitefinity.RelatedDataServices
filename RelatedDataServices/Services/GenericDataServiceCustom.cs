@@ -1,9 +1,10 @@
-﻿using System.Collections;
+﻿using SitefinityWebApp.RelatedDataServices.Helpers;
+using System.Collections;
 using Telerik.Sitefinity.Services.GenericData;
 using Telerik.Sitefinity.Services.GenericData.Messages;
 using Telerik.Sitefinity.Services.GenericData.Responses;
 
-namespace SitefinityWebApp.ServiceStackCustom
+namespace SitefinityWebApp.RelatedDataServices.Services
 {
     public class GenericDataServiceCustom : GenericDataService
     {

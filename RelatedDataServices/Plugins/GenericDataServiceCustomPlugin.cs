@@ -1,11 +1,12 @@
 ﻿using ServiceStack;
+using SitefinityWebApp.RelatedDataServices.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Telerik.Sitefinity.Services.GenericData.Messages;
 
-namespace SitefinityWebApp.ServiceStackCustom
+namespace SitefinityWebApp.RelatedDataServices.Plugins
 {
     public class GenericDataServiceCustomPlugin : IPlugin
     {
